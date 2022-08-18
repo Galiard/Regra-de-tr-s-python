@@ -1,0 +1,1 @@
+# Regra-de-tr-s-python
