@@ -1,4 +1,5 @@
 # Regra-de-tre-s-python
 
-Esse code usa o algoritmo da famosa regra de três para encontrar o valor de "X", com ele 
-Você pode fazer : PAs, equação geral dos gases e várias outras contas matemáticas que usem a famosa regra de três...
+Esse code usa o algoritmo da famosa regra de três :
+
+<img src="content://com.android.chrome.FileProvider/images/screenshot/16608003258491137329391.png">
